@@ -1,1 +1,1 @@
-# ImageRecognition application for ios using swift, reset50 used as model
+# ImageRecognition application for ios using swift, resnet50 used as model
